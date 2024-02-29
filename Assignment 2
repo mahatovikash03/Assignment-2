@@ -56,21 +56,22 @@ int r,h;
 cout<<"enter radius and height"<<endl;
 cin>>r>>h;
 int volume =3.14*r*r*h;
-cout<<volumne;
+cout<<"IS"<<r= <<h= <<"so volume is"<<volume;
 
 }
 
 QUESTION 5.
 
 solution :
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main(){
 char a,b;
-cout<<"enter a and b"<<endl;
+cout>>"enter a and b"<<endl;
 cin>>a>>b;
 cout<<b-a<<endl;
 }
+
 
 QUESTION 6.
 
